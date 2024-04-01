@@ -6,7 +6,7 @@ This lab is designed to get you familiar with Python virtual environments as wel
 """
 
 # 1. Create a virtual environment called "venv" in the current directory. (Type command here in comments)
-#py -m venv
+#py -m venv venv
 
 # 2. Activate the virtual environment. (Type command here in comments)
 #.venv\Scripts\activate
